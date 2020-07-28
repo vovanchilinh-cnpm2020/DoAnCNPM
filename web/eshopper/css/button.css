@@ -1,0 +1,18 @@
+#img {
+    padding: 10px;
+    color: white;
+    background-color: rgba(255, 127, 36, 0.75);
+    border: 1px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#img:hover {
+    background-color:rgba(217, 118, 38, 0.93);
+}
+
+#custom-text {
+    margin-left: 10px;
+    font-family: sans-serif;
+    color: #aa9996;
+}
